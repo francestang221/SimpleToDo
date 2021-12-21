@@ -36,7 +36,7 @@ I did not encounter any challenges while building the required portion of the ap
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Frances Tang
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
